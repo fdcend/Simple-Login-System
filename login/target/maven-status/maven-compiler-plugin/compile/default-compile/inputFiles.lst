@@ -1,0 +1,15 @@
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\gui\EdicionUsuarios.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\gui\LoginInicial.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\persistence\RolJpaController.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\com\fdcm\login\Login.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\logic\Rol.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\logic\Usuario.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\persistence\ControladoraPersistencia.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\persistence\exceptions\NonexistentEntityException.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\logic\Controladora.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\persistence\exceptions\PreexistingEntityException.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\persistence\exceptions\IllegalOrphanException.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\persistence\UsuarioJpaController.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\gui\PrincipalAdmin.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\gui\AltaUsuarios.java
+C:\Users\fdcen\Desktop\NetBeansProjects\login\src\main\java\gui\PrincipalUser.java
